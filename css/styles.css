@@ -157,9 +157,6 @@ ul, ol {
     padding-bottom: 60px;
 }
 
-.focus-inner {
-}
-
 .focus-title {
     margin-bottom: 60px;
 }
@@ -239,12 +236,6 @@ ul, ol {
     gap: 100px;
 }
 
-.footer-logo {
-}
-
-.footer-content {
-}
-
 .subtitle {
     margin-bottom: 20px;
 
@@ -256,11 +247,6 @@ ul, ol {
     flex-direction: column;
     gap: 12px;
 }
-
-
-.footer-item {
-}
-
 
 .footer-link {
     color: var(--footer-tx-cl);
