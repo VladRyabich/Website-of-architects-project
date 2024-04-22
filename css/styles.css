@@ -1,0 +1,24 @@
+
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.container {
+    width: 1440px;
+    margin: 0;
+    padding: 0;
+}
+
+.margin-wrap {
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
